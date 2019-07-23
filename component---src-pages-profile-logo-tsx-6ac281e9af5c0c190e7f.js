@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[35],{235:function(n,e,r){"use strict";r.r(e);var t=r(0),o=r.n(t),u=r(243),a=r.n(u),c=r(242),s=r(244),d="## Logo\n";function i(){return o.a.createElement(c.d,null,o.a.createElement(a.a,{renderers:s.b,source:d}))}r.d(e,"default",function(){return i})}}]);
-//# sourceMappingURL=component---src-pages-profile-logo-tsx-6ac281e9af5c0c190e7f.js.map
