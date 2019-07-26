@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{243:function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a),c=t(266),l=t.n(c),o=t(265),i=t(267),u=t(268),p="# `@fremtind/jkl-toggle-switch`\n",g="",s="";function m(){return r.a.createElement(o.b,{title:"Toggle-knapp",mainExample:r.a.createElement(u.p,null)},r.a.createElement(l.a,{renderers:i.b,source:p}),r.a.createElement(o.a,{changelog:g,changelogReact:s}))}t.d(n,"default",function(){return m})}}]);
+//# sourceMappingURL=component---src-pages-components-toggleswitch-tsx-fdf41cd35aa452456dea.js.map
