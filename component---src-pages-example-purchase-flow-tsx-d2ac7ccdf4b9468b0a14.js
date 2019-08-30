@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[37],{228:function(e,n,t){"use strict";t.r(n);var i=t(0),o=t.n(i),r=t(267);n.default=function(){return o.a.createElement(r.h,{src:"https://codesandbox.io/embed/intelligent-lederberg-ihlzd?fontsize=14"})}}}]);
-//# sourceMappingURL=component---src-pages-example-purchase-flow-tsx-d2ac7ccdf4b9468b0a14.js.map
