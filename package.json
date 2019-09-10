@@ -46,7 +46,7 @@
         "cz-lerna-changelog": "^2.0.0",
         "document-register-element": "^1.13.2",
         "eslint": "^6.0.0",
-        "eslint-config-prettier": "^6.0.0",
+        "eslint-config-prettier": "^6.3.0",
         "eslint-plugin-jsx-a11y": "^6.2.3",
         "eslint-plugin-react": "^7.14.3",
         "gh-pages": "^2.0.1",
