@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[43],{262:function(e,n,r){"use strict";r.r(n);var l=r(0),t=r.n(l),o=r(272),s=r.n(o),a=r(271),i=r(273),u="## Ikoner\n\nVi bruker ikoner sparsomt. De ikonene vi har valgt å ha, er funksjonelle, for eksempel til noen av Fremtinds fagsystemer og til fellesfunksjoner som å legge til en fil eller lagre.\n";function f(){return t.a.createElement(a.f,null,t.a.createElement(s.a,{renderers:i.b,source:u}))}r.d(n,"default",function(){return f})}}]);
+//# sourceMappingURL=component---src-pages-profile-icon-tsx-33e190f63c5b22c1a901.js.map

@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[37],{228:function(e,n,t){"use strict";t.r(n);var o=t(0),s=t.n(o),a=t(269);n.default=function(){return s.a.createElement(a.h,{src:"https://codesandbox.io/embed/frosty-shape-zx4i3?fontsize=14"})}}}]);
-//# sourceMappingURL=component---src-pages-example-header-tsx-7a0f3b3ac5d9d45ad3e2.js.map
